@@ -1,0 +1,1031 @@
+Jump to content
+
+Main menu
+
+Main menu move to sidebar hide
+
+Navigation
+
+Main page Contents Current events Random article About Wikipedia Contact us Donate
+
+Contribute
+
+Help Learn to edit Community portal Recent changes Upload file
+
+Languages
+
+Language links are at the top of the page.
+
+Search
+
+Search
+
+Create account
+
+Log in
+
+Personal tools
+
+Create account Log in
+
+Pages for logged out editors learn more
+
+Contributions Talk
+
+Contents move to sidebar hide
+
+(Top)
+
+1Instruments
+
+Toggle Instruments subsection
+
+1.1Shared instruments
+
+1.2Metop specific instruments
+
+2Background
+
+Toggle Background subsection
+
+2.1Metop heritage
+
+3Data acquisition
+
+4Command and control
+
+5Mission profile
+
+6Launch and deployment
+
+7GOME-2
+
+8Infrared atmospheric sounding interferometer (IASI)
+
+9The Metop constellation
+
+10See also
+
+11References
+
+12External links
+
+Toggle the table of contents
+
+MetOp
+
+10 languages
+
+Català Deutsch Français Galego Bahasa Indonesia Italiano Polski Português Русский Suomi
+
+Edit links
+
+Article Talk
+
+English
+
+Read Edit View history
+
+Tools
+
+Tools move to sidebar hide
+
+Actions
+
+Read Edit View history
+
+General
+
+What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Wikidata item
+
+Print/export
+
+Download as PDF Printable version
+
+In other projects
+
+Wikimedia Commons
+
+From Wikipedia, the free encyclopedia
+
+Series of European meteorological satellites
+
+Metop (Meteorological Operational satellite) is a series of three polar-orbiting meteorological satellites developed by the European Space Agency (ESA) and operated by the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT). The satellites form the space segment component of the overall EUMETSAT Polar System (EPS), which in turn is the European half of the EUMETSAT / NOAA Initial Joint Polar System (IJPS). The satellites carry a payload comprising 11 scientific instruments and two which support Cospas-Sarsat Search and Rescue services. In order to provide data continuity between Metop and NOAA Polar Operational Environmental Satellites (POES), several instruments are carried on both fleets of satellites.
+
+Metop-A, launched on 19 October 2006, is Europe's first polar orbiting satellite used for operational meteorology. With respect to its primary mission of providing data for Numerical Weather Prediction, studies have shown that Metop-A data are measured as having the largest impact of any individual satellite platform on reducing 24-hour forecasting errors, and accounts for about 25% of the total impact on global forecast error reduction across all data sources.[1]
+
+Each of the three satellites were originally intended to be operated sequentially, however good performance of the Metop-A and Metop-B satellites mean there was a period of all three satellite operating. EUMETSAT lowered the orbit of Metop-A and decommissioned the spacecraft in November 2021 [2]
+
+The successor to the Metop satellites will be MetOp-SG, currently with the first MetOp SG-A satellite expected to be launched in 2025.[3]
+
+Metop
+
+Organization:
+
+EUMETSAT
+
+Mission type:
+
+Meteorology / Climatology
+
+Satellite of:
+
+Earth
+
+Metop-A Launch:
+
+19 October 2006at 16:28:00 UTC
+
+Soyuz ST Fregat
+
+Baikonur Cosmodrome
+
+Metop-B Launch:
+
+17 September 2012at 16:28:00 UTC
+
+Soyuz ST Fregat
+
+Baikonur Cosmodrome
+
+Metop-C Launch:
+
+7 November 2018at 00:47:27 UTC
+
+Soyuz ST Fregat
+
+Guiana Space Centre
+
+Dimensions: 6.2 x 3.4 x 3.4 metres (under the launcher fairing)17.6 x 6.5 x 5.2 metres (deployed in orbit)
+
+Mass: 4093 kg
+
+Payload Mass: 812 kg
+
+Webpage:
+
+[1]
+
+Orbital elements
+
+Orbit:
+
+Sun-synchronous orbit
+
+Inclination: 98.7° to the equator
+
+Orbital period: 101.0 minutes
+
+Ground Track Repeat Cycle: 29 Days / 412 Orbits
+
+Mean Altitude: 817 km
+
+Local Time of Ascending Node: 21:30
+
+Metop-A International Designator: 2006-044A
+
+Metop-B International Designator: 2012-049A
+
+Metop-C International Designator: 2018-087A
+
+Instruments[edit]
+
+Metop-C's payload module being lowered into ESTEC's Large Space Simulator, 2017 The following instruments [4] are flown on board the Metop satellites:
+
+Shared instruments[edit]
+
+The following instruments are shared on the NPOES satellites which form the U.S. contribution to IJPS:
+
+AMSU-A1/AMSU-A2 – Advanced Microwave Sounding Units
+
+HIRS/4 – High-resolution Infrared Radiation Sounder (N.B. Not included on Metop-C)
+
+AVHRR/3 – Advanced Very High Resolution Radiometer
+
+Argos A-DCS – Advanced Data Collection System
+
+SEM-2 – Space Environment Monitor SARP-3 – Search And Rescue Processor (N.B. Not included on Metop-C) SARR – Search And Rescue Repeater (N.B. Not included on Metop-C)
+
+MHS – Microwave Humidity Sounder
+
+Metop specific instruments[edit]
+
+The following instruments are flown exclusively on the Metop satellites:
+
+IASI – Infrared Atmospheric Sounding Interferometer
+
+GRAS – Global Navigation Satellite System Receiver for Atmospheric Sounding ASCAT – Advanced SCATterometer GOME-2 – Global Ozone Monitoring Experiment-2
+
+Background[edit]
+
+Metop has been developed as a joint undertaking between the European Space Agency (ESA) and European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT). Recognising the growing importance of Numerical Weather Prediction (NWP) in weather forecasting, Metop was designed with a suite of instruments to provide NWP models with high resolution global atmospheric temperature and humidity structure. Data from Metop are additionally used for atmospheric chemistry and provision of long term data sets for climate records.
+
+Metop heritage[edit]
+
+The Metop satellites have a modular construction, comprising a Service Module, a Payload Module and a suite of instruments.
+
+A SPOT heritage service module provides power (via solar array and five batteries for eclipse), attitude and orbit control, thermal regulation and Tracking, Telemetry and Command (TT&C). An Envisat heritage payload module provides common command and control and power buses for the instruments along with science data acquisition and transmission.
+
+The suite of instruments are largely derived from precursors flown on the European Space Agency's European Remote-Sensing Satellite ERS / Envisat satellites or are fully recurrent units originally developed for NOAA's Television Infrared Observation Satellite (TIROS) series of polar-orbiting satellites.
+
+Data acquisition[edit]
+
+Satellite flare from Metop-A, May 2019 With the exception of Search and Rescue (SARSAT), which is a purely local mission with its own dedicated transmitter, all data from the MetOp Instruments are formatted and multiplexed by the Payload Module and either stored on a solid-state recorder for later transmission via an X-Band antenna, or directly transmitted to local users via High Rate Picture Transmission (HRPT) L-Band antenna.
+
+The main Command and Data Acquisition (CDA) head is located at Svalbard Satellite Station in Norway. The high latitude of this station allows the global data stored in the solid state recorder of each satellite to be dumped via X-Band once per orbit. Each Metop satellite produces approximately 2 GB of raw data per orbit. Additionally, in order to improve timeliness of products, one of the operational satellites dumps the data from the descending part of the orbit over the McMurdo Station in Antarctica. Data are then trickle fed from the ground stations to EUMETSAT Headquarters in Darmstadt, Germany, where they are processed, stored and disseminated to various agencies and organisations with a latency of approximately 2 hours without the McMurdo ground station and 1 hour with Svalbard.
+
+HRPT is used to provide a real-time direct readout local mission via a network of receivers on ground provided by cooperating organisations. Data from these stations is also transmitted to EUMETSAT and redistributed to provide a regional service with approximately 30 minutes latency. Due to radiation sensitivity of the HRPT hardware, the Metop-A HRPT does not operate over the polar regions or South Atlantic Anomaly.
+
+Command and control[edit]
+
+Command and Control of Metop is performed from the EPS Control Room at EUMETSAT Headquarters in Darmstadt, Germany. The control center is connected to the CDA in Svalbard which is used for S-Band ranging and doppler measurements (for orbit determination), acquisition of real-time house keeping telemetry and uplink of telecommands. The CDA at Svalbard, located at approximately 78° North, provides TT&C coverage on each orbit. Commands for routine operations are generally uplinked at each CDA contact, approximately 36 hours in advance of on-board execution. Orbit determination can also be performed using data from the GNSS Receiver for Atmospheric Sounding (GRAS) instrument. An independent back-up control center is also located at Instituto Nacional de Técnica Aeroespacial, near Madrid, Spain.
+
+Mission profile[edit]
+
+The Metop and NOAA satellites both carry a common set of core instruments. In addition, Metop carries a set of new European instruments, which measure atmospheric temperature and humidity with unprecedented accuracy along with profiles of atmospheric ozone and other trace gases. Wind speed and direction over the oceans will also be measured. It is expected that these new instruments will herald a significant contribution to the ever-growing need for fast and accurate global data to improve numerical weather prediction. This in turn will lead to more-reliable weather forecasts and, in the longer-term, help with monitoring changing climates more accurately.
+
+In addition to its meteorological uses, it will provide imagery of land and ocean surfaces as well as search and rescue equipment to aid ships and aircraft in distress. A data relay system is also on board, linking up to buoys and other data collection devices.
+
+Launch and deployment[edit]
+
+Ground track of Metop-B, September 2012 Metop-A, the first operational European polar-orbiting meteorological satellite, was successfully launched on 19 October 2006 from Baikonur Cosmodrome, Kazakhstan using a Soyuz-ST Fregat launch vehicle, after six attempts. At just over 4000 kg and measuring 17.6 × 6.5 × 5.2 metres when in orbit, Metop is Europe's second-largest Earth-observation satellite, after Envisat which was launched in 2002.[5]
+
+The first signal from the satellite was received at 18:35 BST on 20 October 2006, and it was confirmed that the satellite was in its nominally correct orbit with the solar panel deployed. Control of the satellite was with the European Space Operations Centre (ESOC — part of ESA) which had the responsibility of achieving the final positioning of the satellite, deployment of all the antennas and final reconfiguration of the satellite following necessary orbit control maneuvers. The satellite was handed over to EUMETSAT operations on 22 October 2006. The first image was received at 08:00 UTC on 25 October 2006 [6] — a visible light image of Scandinavia and Eastern Europe — but there was a six-month period of verification and calibration of the satellite and its instrument payload before it was declared operational. Before that point, the Met Office received data and started to test and then use it as input to the operational numerical weather prediction runs.
+
+Metop-A was declared fully operational in mid-May 2007 and the full data of its 11 scientific instruments are available to its users on operational basis [7]
+
+Metop-B was declared fully operational and pronounced to replace Metop-A as "EUMETSAT's prime operational SSO weather satellite" in April 2013.[8]
+
+Metop-C was scheduled for launch towards the end of 2016,[9] which was postponed until 2017 [10] and was launched successfully on 7 November 2018.
+
+Due to the longer than expected in-orbit performance of Metop-A and Metop-B, all three Metop spacecraft are operated simultaneously and will remain so until the de-orbiting of Metop-A, Metop-B and eventually Metop-C. These will be succeeded in their operational role by the MetOp Second Generation satellites. EUMETSAT announced plans to begin de-orbiting Metop-A in November 2021 [11]
+
+GOME-2[edit]
+
+The first atmospheric contributions by Metop-A were made by the Global Ozone Monitoring Experiment-2 (GOME-2), a scanning spectrometer on board the satellite. GOME-2, designed by DLR (the German Aerospace Centre) and developed by SELEX Galileo as the successor of ERS-2's GOME (1995), provided coverage of most areas of planet Earth measuring the atmospheric ozone, the distribution of surface ultraviolet radiation, and the amount of nitrogen dioxide (NO2).[12] In addition, sun-induced chlorophyll fluorescence, a proxy for gross primary production, can be observed using the GOME-2 instrument.[13][14] The GOME-2 instrument provides a second source of ozone observations that supplement data from the SBUV/2 ozone instruments on the NOAA-18 and NOAA-19 satellites, which are part of the IJPS.[15]
+
+Infrared atmospheric sounding interferometer (IASI)[edit]
+
+One of the most important instruments carried on board Metop is the Infrared atmospheric sounding interferometer (IASI), the most accurate infrared sounding interferometer currently in orbit. IASI observes the atmosphere in the infra-red (3.7 – 15.5 µm) in 8461 channels, allowing to measure the atmosphere temperature within 1 °C and relative humidity within 10% for each slice of 1 km height. Earth surface is revisited twice a day. IASI by itself produces half of all Metop data.
+
+The Metop constellation[edit]
+
+Metop-A and Metop-B were launched respectively on 19 October 2006 and 17 September 2012,[16] from the Baikonur Cosmodrome, with Metop-C being launched on 7 November 2018 from the Centre Spatial Guyanais, at Kourou spaceport, Guiana Space Centre.[17]
+
+It was originally planned that subsequent Metop satellites will be launched at approximately five-year intervals, each having a planned operational life of 5 years - as such there would just be one operational satellite at a time. However, based on the good performance of both the Metop-A and Metop-B satellites, EUMETSAT council agreed to extend the EPS programme until at least 2027.[18] Metop-A was operated until 30 November 2021, and similar extensions are projected for Metop-B and Metop-C.
+
+The last Metop-A Out of Plane manoeuvre was performed in August 2016, almost all remaining fuel on board Metop-A was budgeted for end-of-life disposal operations required to put Metop-A in an orbit which will decay and cause re-entry within 25 years in accordance with ISO 24113 Space Debris Mitigation Guidelines.[19] At the end of 2022, the same fuel reserve process was enforced on Metop-B. The vast majority of fuel consumption during the operations phase is needed to compensate for inclination drift and maintain a Sun-synchronous orbit (SSO) with a mean local time of the ascending node (LTAN) of 21:30, and it is estimated that the platform can survive for at least 5 years with a drifting LTAN.[20] These end-of-life disposal operations were initially unplanned, but are deemed necessary after the Iridium-Cosmos collision and Fengyun-1C anti-satellite test have significantly worsened the space debris situation in low Earth orbit (LEO).
+
+Prior to the launch of Metop-C, Metop-A and Metop-B were operated in a co-planar orbit approximately half an orbit apart. With the launch of Metop-C, the three Metop satellites initially share the same orbit separated by approximately a third of an orbit, albeit with Metop-A drifting in LTAN. However, after Summer 2020 Metop-C was relocated to be approximately half an orbit apart from Metop-B, with Metop-A held between the other Metops in preparation for its disposal. Metop-B and Metop-C High Rate Picture Transmission (HRPT) transmits real-time data continuously.
+
+Metop-A had its orbit lowered by performing 23 apogee manoeuvres to almost empty its fuel tanks and is expected to re-enter the Earth's atmosphere within 25 years. Metop-A was decommissioned on 30 November 2021, after which only Metop-B and C remain phased approximately 180 degrees apart. The final Out of Plane manoeuvre was performed on Metop-B in September 2022 meaning that Metop-B is following a similar LTAN drift strategy to Metop-A, but 6 years later.
+
+See also[edit]
+
+Spaceflight portal
+
+Satellite flare MetOp Second Generation
+
+References[edit]
+
+^ Joo, Sangwon; Eyre, John; Marriott, Richard (October 2013). "The Impact of Metop and Other Satellite Data within the Met Office Global NWP System Using an Adjoint-Based Sensitivity Method". Monthly Weather Review. 141 (10): 3331–3342. Bibcode:2013MWRv..141.3331J. doi:10.1175/mwr-d-12-00232.1. ISSN 0027-0644.
+
+^ "Plans for Metop-A end of life | EUMETSAT". 13 December 2018.
+
+^ "EUMETSAT Polar System - Second Generation". EUMETSAT. Archived from the original on 15 October 2017. Retrieved 11 January 2020.
+
+^ "CEOS EO HANDBOOK – INSTRUMENT INDEX". CEOS, the Committee on Earth Observation Satellites.
+
+^ ESA fact page
+
+^ "First Satellite Image received by Dundee University Satellite receiving station". Archived from the original on 19 March 2007. Retrieved 26 October 2006.
+
+^ Spaceflight, a publication of the British Interplanetary Society, Volume 49, Number 7, July 2007, page 245, ISSN 0038-6340.
+
+^ EUMETSAT press release April 24, 2013
+
+^ "Eumetsat Awards Metop-C Launch to Arianespace - Via Satellite -". 13 September 2010.
+
+^ "EUMETSAT news item, 24 April 2013". Archived from the original on 22 December 2017. Retrieved 2 October 2013.
+
+^ "Plans for Metop-A end of life | EUMETSAT". 13 December 2018.
+
+^ Spaceflight, a publication of the British Interplanetary Society, Volume 49, Number 5, May 2007, page 166.
+
+^ Joiner, J.; Guanter, L.; Lindstrot, R.; Voigt, M.; Vasilkov, A. P.; Middleton, E. M.; Huemmrich, K. F.; Yoshida, Y.; Frankenberg, C. (25 October 2013). "Global monitoring of terrestrial chlorophyll fluorescence from moderate-spectral-resolution near-infrared satellite measurements: methodology, simulations, and application to GOME-2". Atmospheric Measurement Techniques. 6 (10): 2803–2823. Bibcode:2013AMT.....6.2803J. doi:10.5194/amt-6-2803-2013. hdl:2060/20140010879.
+
+^ Koren, Gerbrand; van Schaik, Erik; Araújo, Alessandro C.; Boersma, K. Folkert; Gärtner, Antje; Killaars, Lars; Kooreman, Maurits L.; Kruijt, Bart; van der Laan-Luijkx, Ingrid T.; von Randow, Celso; Smith, Naomi E.; Peters, Wouter (19 November 2018). "Widespread reduction in sun-induced fluorescence from the Amazon during the 2015/2016 El Niño". Philosophical Transactions of the Royal Society B: Biological Sciences. 373 (1760): 20170408. doi:10.1098/rstb.2017.0408. PMC 6178432. PMID 30297473.
+
+^ "NOAA-N Prime" (PDF). NP-2008-10-056-GSFC. NASA Goddard Space Flight Center. 16 December 2008. Archived from the original (PDF) on 16 February 2013. Retrieved 8 October 2010.
+
+^ EUMETSAT MetOp-B Launch Event
+
+^ "Launch of Soyuz-ST with European satellite from Kourou spaceport delayed until November 6". Interfax. 2 July 2018. Archived from the original on 4 July 2018. Retrieved 4 July 2018.
+
+^ "EUMETSAT Annual Report 2017". Archived from the original on 8 November 2018. Retrieved 7 November 2018.
+
+^ "ISO 24113:2011". ISO. 9 October 2013. Retrieved 7 November 2018.
+
+^ Dyer, Richard; Righetti, Pier Luigi; Vera, Carlos; Vey, Sylvain (25 May 2018). Metop-A Mission Extension: Surviving on a Drifting LTAN. 15th International Conference on Space Operations. Reston, Virginia: American Institute of Aeronautics and Astronautics. doi:10.2514/6.2018-2439. ISBN 9781624105623. AIAA 2018-2439.
+
+External links[edit]
+
+Wikimedia Commons has media related to EUMETSAT.
+
+EUMETSAT Archived 18 July 2016 at the Wayback Machine
+
+European Space Agency EUMETSAT
+
+Met Office Press Release (archive)
+
+v t e
+
+European Space Agency
+
+Spaceports
+
+Guiana Space Centre Esrange
+
+Launch vehicles
+
+Ariane 5 Ariane 6 Soyuz Vega
+
+Facilities
+
+Space Operations Centre Space Research and Technology Centre ESA Centre for Earth Observation European Astronaut Centre Space Astronomy Centre Space Applications and Telecommunications Centre Concurrent Design Facility Space Telescope European Coordinating Facility
+
+Communications
+
+ESTRACK European Data Relay System
+
+Programmes
+
+Artemis ESM
+
+Aurora ATV
+
+Copernicus Sentinel
+
+Columbus CryoSat EGNOS GALILEO ELIPS ExoMars FLPP Living Planet Programme Space Situational Awareness Programme
+
+Science Programme
+
+Horizon 2000 Cosmic Vision
+
+Pride
+
+Predecessors
+
+European Launcher Development Organisation European Space Research Organisation
+
+Related topics
+
+Arianespace ESA Television EUMETSAT European Space Camp GEWEX Planetary Science Archive
+
+Projects and missions
+
+Science
+
+Solar physics
+
+ISEE-2 (1977–1987)
+
+Ulysses (1990–2009)
+
+SOHO (1995–present)
+
+Cluster II (2000–present)
+
+Solar Orbiter (2020–present)
+
+Vigil (2020s)
+
+Planetary science
+
+Giotto (1985–1992)
+
+Huygens (1997–2005)
+
+SMART-1 (2003–2006)
+
+Mars Express (2003–present)
+
+Rosetta/Philae (2004–2016)
+
+Venus Express (2005–2014)
+
+ExoMars Trace Gas Orbiter (2016–present)
+
+BepiColombo (2018–present)
+
+Jupiter Icy Moons Explorer (2023)
+
+Hera (2024)
+
+Rosalind Franklin rover (2028)
+
+Comet Interceptor (2029)
+
+EnVision (2031)
+
+Astronomy andcosmology
+
+Cos-B (1975–1982)
+
+IUE (1978–1996)
+
+EXOSAT (1983–1986)
+
+Hipparcos (1989–1993)
+
+Hubble Space Telescope (1990–present)
+
+Eureca (1992–93)
+
+ISO (1995–1998)
+
+XMM-Newton (1999–present)
+
+INTEGRAL (2002–present)
+
+CoRoT (2006–13)
+
+Planck (2009–2013)
+
+Herschel (2009–2013)
+
+Gaia (2013–present)
+
+CHEOPS (2019–present)
+
+James Webb Space Telescope (2021–present)
+
+Euclid (2023–present)
+
+PLATO (2026)
+
+ARIEL (2029)
+
+ARRAKIHS (2030s)
+
+Athena (2035)
+
+LISA (2037)
+
+Earth observation
+
+Copernicus (1988–present)
+
+Meteosat First Generation (1977–1997)
+
+ERS-1 (1991–2000)
+
+ERS-2 (1995–2011)
+
+Meteosat Second Generation (2002–present)
+
+Envisat (2002–2012)
+
+Double Star (2003–2007)
+
+MetOp (2006–present)
+
+GOCE (2009–2013)
+
+SMOS (2009–present)
+
+CryoSat-2 (2010–present)
+
+Swarm (2013–present)
+
+Sentinel-1 / 1A / 1B (2014–present)
+
+Sentinel-2 / 2A / 2B (2015–present)
+
+Sentinel-3 / 3A / 3B (2016–present)
+
+Sentinel-5 Precursor (2017–present)
+
+ADM-Aeolus (2018–present)
+
+Biomass (2024)
+
+EarthCARE (2024)
+
+Meteosat Third Generation (Sentinel-4) (2024)
+
+ALTIUS (2025)
+
+FLEX (2025)
+
+MetOp-SG-A (2025)
+
+MetOp-SG-B (2025)
+
+SMILE (2025)
+
+FORUM (2027)
+
+ISS spaceflight
+
+ISS contribution (1998–present)
+
+Columbus (2008–present)
+
+Jules Verne (2008)
+
+Cupola (2010–present)
+
+Johannes Kepler (2011)
+
+Edoardo Amaldi (2012)
+
+Albert Einstein (2013)
+
+Georges Lemaître (2014)
+
+European Robotic Arm (2021)
+
+Telecommunications
+
+GEOS 2 (1978)
+
+Olympus-1 (1989–1993)
+
+Artemis (2001–present)
+
+GIOVE-A (2005–present)
+
+GIOVE-B (2008–present)
+
+HYLAS-1 (2010–present)
+
+Galileo IOV (2011–present)
+
+Galileo FOC (2014–present) EGNOS
+
+European Data Relay System (2016–present)
+
+Technologydemonstrators
+
+ARD (1998)
+
+PROBA-1 (2001–present)
+
+YES2 (2007)
+
+PROBA-2 (2009–present)
+
+PROBA-V (2013–present)
+
+IXV (2015)
+
+LISA Pathfinder (2015–2017)
+
+OPS-SAT (2019–present)
+
+PROBA-3 (2024)
+
+Cancelledand proposed
+
+AIDA Ariane 5 ME Calathus Mission Ceres Polar Lander Columbus Man-Tended Free Flyer CSTS Darwin Mission Don Quijote e.Deorbit EChO Eddington EXPERT Hermes Hopper LOFT Lunar Lander Marco Polo MarcoPolo-R Mars sample return mission ODINUS Phootprint SOLARIS SPICA STE-QUEST THESEUS
+
+Failed
+
+Cluster CryoSat-1 GEOS 1 Schiaparelli EDM
+
+Future missions in italics
+
+Category
+
+Commons
+
+Wikinews
+
+WikiProject
+
+v t e
+
+← 2005  ·  Orbital launches in 2006  ·  2007 →
+
+January
+
+New Horizons Daichi
+
+February
+
+EchoStar X MTSAT-2
+
+Akari, CUTE-1.7 + APD
+
+Arabsat-4A
+
+March
+
+Spainsat, Hot Bird 7A
+
+ST-5 FalconSAT-2 Soyuz TMA-8
+
+April
+
+JCSAT-5A COSMIC Astra 1KR Progress M-56 EROS-B Yaogan 1
+
+CALIPSO, CloudSat
+
+May
+
+Kosmos 2420
+
+GOES 13 / EWS-G1
+
+Satmex 6, Thaicom 5
+
+June
+
+Resurs-DK No.1 KazSat-1 Galaxy 16
+
+USA-187, USA-188, USA-189
+
+Progress M-57 Kosmos 2421 USA-184
+
+July
+
+STS-121 (MPLM) INSAT-4C Genesis I Kosmos 2422 BelKA, Baumanets, PicPot, SACRED, ION, Rincon 1, ICECube-1, KUTESat Pathfinder, SEEDS, nCube, HAUSAT-1, MEROPE, CP-2, AeroCube-1, CP-1, Mea Huaka'i, ICECube-2 Arirang-2
+
+August
+
+Hot Bird 8
+
+JCSAT-3A, Syracuse 3B
+
+Koreasat 5
+
+September
+
+Shijian 8
+
+STS-115 (ITS P3/4) IGS-3A Chinasat-22A Kosmos 2423 Soyuz TMA-9
+
+Hinode, HIT-SAT, SSSAT
+
+USA-190
+
+October
+
+DirecTV-9S, Optus D1, LDREX
+
+MetOp-A Progress M-58
+
+Shijian 6C, Shijian 6D
+
+STEREO Sinosat-2 XM-4
+
+November
+
+USA-191 Badr-4 USA-192
+
+December
+
+Fengyun 2-05
+
+WildBlue 1, AMC-18
+
+STS-116 (ITS P5, SpaceHab LSM, ANDE-MAA, ANDE-FACL, RAFT1, MARScom, MEPSI-2) MEASAT-3 USA-193
+
+TacSat-2, GeneSat
+
+Kiku 8 SAR-Lupe 1 Meridian 1
+
+Kosmos 2424, Kosmos 2425, Kosmos 2426
+
+CoRoT
+
+Launches are separated by dots ( • ), payloads by commas ( , ), multiple names for the same satellite by slashes ( / ). Cubesats are smaller.Crewed flights are underlined. Launch failures are marked with the † sign. Payloads deployed from other spacecraft are (enclosed in parentheses).
+
+v t e
+
+← 2011  ·  Orbital launches in 2012  ·  2013 →
+
+January
+
+Ziyuan III-01, VesselSat-2
+
+Fengyun 2-07 USA-233 Progress M-14M
+
+February
+
+Navid
+
+LARES, ALMASat-1, Xatcobeo, UniCubeSat-GG, ROBUSTA, e-st@r, Goliat, MaSat-1, PW-Sat
+
+SES-4 Compass-G5 MUOS-1
+
+March
+
+Edoardo Amaldi ATV Intelsat 22 Kosmos 2479 Apstar 7
+
+April
+
+USA-234 Kwangmyŏngsŏng-3 Progress M-15M YahSat-1B RISAT-1
+
+Compass-M3, Compass-M4
+
+May
+
+USA-235 Tianhui 1B
+
+Yaogan 14, Tiantuo 1
+
+Soyuz TMA-04M
+
+JCSAT-13, Vinasat-2
+
+Kosmos 2480
+
+Shizuku, Kompsat 3, SDS-4, Horyu 2
+
+Nimiq 6
+
+SpaceX COTS Demo Flight 2, New Frontier
+
+Fajr ChinaSat 2A Yaogan 15
+
+June
+
+Intelsat 19 NuSTAR Shenzhou 9
+
+USA-236 / Quasar 18
+
+USA-237 / Orion 8
+
+July
+
+EchoStar XVII, MSG-3
+
+SES-5 Soyuz TMA-05M
+
+Kounotori 3 (Raiko, We-Wish, Niwaka, TechEdSat, F-1)
+
+Kanopus-V1, BelKA-2, Zond-PP, TET-1, exactView-1
+
+Tianlian I-03
+
+Gonets-M No.3, Gonets-M No.4, Kosmos 2481, MiR
+
+August
+
+Progress M-16M (Sfera-53)
+
+Intelsat 20, HYLAS 2
+
+Telkom-3, Ekspress-MD2
+
+Intelsat 21
+
+RBSP-A, RBSP-B
+
+September
+
+SPOT 6, PROITERES, mRESINS
+
+USA-238, SMDC-ONE 1.1, SMDC-ONE 1.2, AeroCube 4, AeroCube 4A, AeroCube 4B, Aeneas, Re, CSSWE, CP5, CXBN, CINEMA 1
+
+MetOp-B
+
+Compass-M5, Compass-M6
+
+Astra 2F, GSAT-10
+
+VRSS-1
+
+October
+
+USA-239
+
+SpaceX CRS-1, Orbcomm-2
+
+David, Sif
+
+Shijian 9-01, Shijian 9-02
+
+Intelsat 23 Soyuz TMA-06M Compass G6 Progress M-17M
+
+November
+
+Luch 5B, Yamal-300K
+
+Eutelsat 21B, Star One C3
+
+Meridian 6 Huanjing 1C EchoStar XVI
+
+Yaogan 16A, Yaogan 16B, Yaogan 16C
+
+ChinaSat 12
+
+December
+
+Pléiades-HR 1B Eutelsat 70B Yamal-402 USA-240 Kwangmyŏngsŏng-3 Unit 2 Göktürk-2 Soyuz TMA-07M
+
+Skynet 5D, Mexsat Bicentenario
+
+Launches are separated by dots ( • ), payloads by commas ( , ), multiple names for the same satellite by slashes ( / ). Cubesats are smaller.Crewed flights are underlined. Launch failures are marked with the † sign. Payloads deployed from other spacecraft are (enclosed in parentheses).
+
+v t e
+
+← 2017  ·  Orbital launches in 2018  ·  2019 →
+
+January
+
+USA-280 / Zuma
+
+BeiDou-3 M7, BeiDou-3 M8
+
+Cartosat-2F, ICEYE-X1, Microsat-TD, Arkyd-6A, Carbonite-2, Flock-3p' × 4, Fox-1D, Landmapper BC 3 v2, Lemur-2 × 4, PicSat, SpaceBEE × 4
+
+USA-281 / Topaz-5
+
+Jilin-1 Video-07, Jilin-1 Video-08, Kepler 0 KIPP
+
+USA-282 / SBIRS-GEO-4
+
+Humanity Star, Dove Pioneer, Lemur-2 × 2
+
+Yaogan 30-04 (3 satellites)
+
+SES-14, Al Yah 3
+
+GovSat-1 / SES-16
+
+February
+
+Kanopus-V No. 3, No. 4, S-Net × 4 , Lemur-2 × 4
+
+CSES, ÑuSat 4, 5 TRICOM-1R
+
+Falcon Heavy test flight (Tesla Roadster)
+
+BeiDou-3 M3, M4
+
+Progress MS-08
+
+Paz, Tintin A & B
+
+IGS-Optical 6
+
+March
+
+GOES-17 Hispasat 30W-6
+
+O3b × 4 (FM13 to FM16) Soyuz MS-08 GSAT-6A
+
+EMKA / Kosmos 2525
+
+BeiDou-3 M9, M10
+
+Iridium NEXT 41–50 Gaofen-1-02, 03, 04
+
+April
+
+Dragon CRS-14, 1KUNS-PF, Irazú, UBAKUSAT
+
+Superbird-B3, HYLAS-4
+
+Yaogan 31A, 31B, 31C, Weina 1B IRNSS-1I
+
+AFSPC-11, EAGLE
+
+Blagovest-12L / Kosmos 2526 TESS Sentinel-3B
+
+Zhuhai-1 × 5
+
+May
+
+Apstar 6C
+
+InSight, MarCO A, MarCO B
+
+Gaofen 5 Bangabandhu-1
+
+Chang'e 4 Relay, Longjiang 1, Longjiang 2
+
+Cygnus CRS OA-9E (EnduroSat One, EQUiSat, Lemur-2 × 4, RaInCube)
+
+Iridium NEXT 51–55, GRACE-FO 1, GRACE-FO 2
+
+June
+
+Gaofen-6 SES-12 Fengyun-2H Soyuz MS-09 IGS-Radar 6
+
+GLONASS-M 756 / Kosmos 2527
+
+XJSS A, B
+
+Dragon CRS-15 (Biarri-Squad × 3, BHUTAN-1, Maya-1, UiTMSAT-1)
+
+July
+
+PRSS-1, PakTES-1A
+
+BeiDou IGSO-7
+
+Progress MS-09 Telstar 19V
+
+Galileo FOC 19–22
+
+Iridium NEXT 56–65
+
+BeiDou-3 M5, M6
+
+Gaofen 11
+
+August
+
+Telkom-4 / Merah Putih Parker Solar Probe ADM-Aeolus
+
+BeiDou-3 M11, BeiDou-3 M12
+
+September
+
+HY-1C Telstar 18V
+
+ICESat-2 — SSTL S1-4, NovaSAR-1
+
+BeiDou-3 M13, M14
+
+Kounotori 7
+
+Azerspace-2 / Intelsat 38, Horizons-3e
+
+CentiSpace-1-S1
+
+October
+
+SAOCOM 1A
+
+Yaogan 32A, 32B Soyuz MS-10
+
+BeiDou-3 M15, M16
+
+AEHF-4 BepiColombo
+
+HY 2B
+
+Lotos-S1 No. 3 / Kosmos 2528 Weilai-1 CFOSAT
+
+GOSAT-2, KhalifaSat, Diwata-2B, Stars-AO, AUTcube2
+
+November
+
+BeiDou-3 G1Q
+
+Kosmos 2529 / GLONASS-M 757
+
+MetOp-C
+
+IRVINE01, Lemur-2 × 2
+
+GSAT-29 Es'hail 2 Progress MS-10 Cygnus NG-10
+
+BeiDou-3 M17, BeiDou-3 M18
+
+Shiyan 6-01 Mohammed VI-B
+
+HySIS, Blacksky Global 1, FACSAT-1, Flock-3r × 16, Kepler 1 CASE, Lemur-2 × 4
+
+Kosmos 2530 / Strela-3M 16, Kosmos 2531 / Strela-3M 17, Kosmos 2532 / Strela-3M 18
+
+December
+
+Soyuz MS-11
+
+SHERPA, Blacksky Global 2, Capella 1, ESEO, Eu:CROPIS, FalconSAT 6, ICEYE X2, SkySat 14, SkySat 15, STPSat 5, ENOCH, Flock-3s × 3, IRVINE02, Landmapper BC 4, MinXSS-2, Orbital Reflector, PW-Sat 2, SpaceBEE × 3
+
+GSAT-11, GEO-KOMPSAT 2A
+
+SpaceX CRS-16 (TechEdSat 8, UNITE)
+
+Chang'e 4 (Yutu-2)
+
+CubeSail, RSat-P, STF-1
+
+GSAT-7A CSO-1
+
+Kosmos 2533 / Blagovest-13L
+
+USA-289 / GPS IIIA-01
+
+Kanopus-V No. 5, No. 6, Flock-3k × 12, Lemur-2 × 8, Lume-1
+
+Launches are separated by dots ( • ), payloads by commas ( , ), multiple names for the same satellite by slashes ( / ). Cubesats are smaller.Crewed flights are underlined. Launch failures are marked with the † sign. Payloads deployed from other spacecraft are (enclosed in parentheses).
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=MetOp&oldid=1193895425"
+
+Categories: Spacecraft decommissioned in 2022 Earth observation satellites of the European Space Agency European Organisation for the Exploitation of Meteorological Satellites Weather satellites Spacecraft launched by Soyuz-2 rockets Spacecraft launched in 2006 Spacecraft launched in 2012 Spacecraft launched in 2018 Satellite series Argos (satellite system)
+
+Hidden categories: Articles with short description Short description matches Wikidata Use British English from December 2020 Use dmy dates from December 2020 Commons link is locally defined Webarchive template wayback links
+
+This page was last edited on 6 January 2024, at 04:38 (UTC). Text is available under the Creative Commons Attribution-ShareAlike License 4.0; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view
+
+Toggle limited content width
